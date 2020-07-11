@@ -181,8 +181,8 @@ header .contacts ul {
     
 }
 
-.contacts-item:hover .contacts-svg,
-.contacts-item:focus .contacts-svg  {
+.contacts a:hover .contacts-svg,
+.contacts a:focus .contacts-svg  {
     --color2: var(--accent-color);
     --color4: var(--accent-color);
 }
